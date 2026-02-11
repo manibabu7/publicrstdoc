@@ -1,4 +1,4 @@
-Qualcomm Sample Product Documentation
+Product Documentation
 ===================================
 
 .. toctree::
