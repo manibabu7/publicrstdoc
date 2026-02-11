@@ -1,10 +1,6 @@
 Installation Guide
 ==================
 
-.. image:: /media/images/setup.png
-   :alt: Installation Flow
-   :width: 500px
-
 Steps
 -----
 1. Download SDK
