@@ -6,3 +6,4 @@ User Guide
 
    overview
    installation
+   sample.ipynb
